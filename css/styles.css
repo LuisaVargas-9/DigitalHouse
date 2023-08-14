@@ -1,0 +1,142 @@
+header{
+    background-image: url('https://img.freepik.com/vector-gratis/fondo-banner-onda-azul-que-fluye-moderno_1035-19862.jpg?w=2000&t=st=1692054494~exp=1692055094~hmac=de910d76f0240612a18175bb7a6fc689d4e83034074f0a9457341098eac44099');
+}
+
+.header-title{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 8px;
+}
+
+.header-title img{
+    width: 280px; 
+    height: 300px;
+    border: 2px solid black;
+}
+
+.header-title > h1 span.page-title{
+    color: grey;
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: 6px;
+    text-align: center;
+}
+
+.header-title > h1 span.page-title1{
+    color: grey;
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: 6px;
+    text-align: center;
+}
+
+.header-title > h1 span.page-title2{
+    color: grey;
+    font-size: 60px;
+    font-weight: 500;
+    letter-spacing: 6px;
+    text-align: center;
+}
+
+.header-title > h2.header-title2{
+    font-style: italic;
+    position: relative;
+    left: 1100px;
+    font-weight: 400;
+    text-align: left;
+    font-size: 50px;
+}
+
+main p{
+    line-height: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.section-title{
+    font-weight: 300;
+    color: white;
+    background-color: #4682B4;
+    line-height: 2rem;
+    background-size: auto;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    letter-spacing: 0.2rem;
+}
+
+.section-title2{
+    font-weight: 300;
+    color: white;
+    background-color: #4682B4;
+    line-height: 2rem;
+    background-size: auto;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    letter-spacing: 0.2rem;
+    text-align: center;
+}
+
+.datos-personales > div p.sobre-mi{
+    font-weight: 400;
+    text-align: center;
+}
+
+.datos-personales > div p{
+    margin-left: 1.5rem;
+}
+
+.formacion-academica .escuelas > div{
+    margin-left: 1.5rem;
+}
+
+.formacion-academica .escuelas > div p span{
+    font-weight: bold;
+    margin-right: 1rem;
+}
+
+.experiencia-laboral .experiencia > div {
+    margin-bottom: 1.5rem;
+    margin-left: 1.5rem;
+}
+
+.experiencia-laboral .experiencia > div p.anio-titulo span{
+    font-weight: bold;
+    margin-right: 1rem;
+    
+}
+
+.experiencia-laboral .experiencia > div p.descripcion1{
+    margin-left: 5.7rem; /*80px*/
+
+}
+
+.experiencia-laboral .experiencia > div p.descripcion{
+    margin-left: 6rem; /*80px*/
+
+}
+
+footer{
+    background-color: #4682B4;
+    text-align: center;
+    padding: 0.1px;
+    margin-top: 10rem;
+}
+
+
+footer p{
+    color: #fff;
+    font-weight: bold;
+}
+
+footer p img{
+    width: 30px; 
+    height: 30px;
+}
+
+footer p span{
+    margin-right: 1rem;
+}
+
+footer img{
+    margin-right: 10px;
+}
